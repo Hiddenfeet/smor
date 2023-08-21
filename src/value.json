@@ -1,0 +1,10 @@
+{
+    "aggregatorAddress": "0xf7b55095E556B9FADd792C357Ab80aB94267134D",
+    "vvsAddress": "0x145863Eb42Cf62847A6Ca784e6416C1682b1b2Ae",
+    "mmfAddress": "0x145677FC4d9b8F19B5D56d1820c48e0443049a30",
+    "croDexAddress": "0xeC0A7a0C2439E8Cb67b992b12ecd020Ea943c7Be",
+    "croSwapAddress": "0x6c3A0E2E78848274B7E3346b8Ef8a4cBB2fEE2a9",
+    "candySwapAddress": "0xb99978440F310658C5E69D5042724327EF6D3CE7",
+    "photonSwapAddress": "0x69004509291F4a4021fA169FafdCFc2d92aD02Aa",
+    "rpcUrl": "https://evm.cronos.org/"
+}
