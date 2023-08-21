@@ -31,30 +31,30 @@ button:focus {
     padding: 1% 6%;
     flex-grow: 1;
     overflow-y: auto;
-    
 }
+
 .card1 {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    background: #17181D;
-    border-radius: 25px;
-    width: 500px;
-    gap: 15px;
-    min-height: 25em;
-    padding: 2em 2em;
+    background: #FF5733; /* Neue Farbe */
+    border-radius: 100px; /* Größerer Radius */
+    width: 2000px; /* Größere Breite */
+    gap: 60px; /* Größerer Abstand zwischen Inhalten */
+    min-height: 100em; /* Größere Mindesthöhe */
+    padding: 4em; /* Größerer Innenabstand */
 }
 
 .card2 {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    background: #17181D;
-    border-radius: 25px;
-    width: 500px;
-    gap: 25px;
-    min-height: 25em;
-    padding: 2em 2em;
+    background: #3498DB; /* Neue Farbe */
+    border-radius: 100px; /* Größerer Radius */
+    width: 2000px; /* Größere Breite */
+    gap: 100px; /* Größerer Abstand zwischen Inhalten */
+    min-height: 100em; /* Größere Mindesthöhe */
+    padding: 4em; /* Größerer Innenabstand */
 }
 
 .swap-form-header{
